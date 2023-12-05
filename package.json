@@ -21,9 +21,9 @@
 	"author": "Robert Kan",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/kyle12803/kanbas-node-server-app/issues"
+		"url": "https://github.com/robertkkan2/kanbas-node-server-app/issues"
 	},
-	"homepage": "https://github.com/kyle12803/kanbas-node-server-app#readme",
+	"homepage": "https://github.com/robertkkan2/kanbas-node-server-app#readme",
 	"dependencies": {
 		"cors": "^2.8.5",
 		"dotenv": "^16.3.1",
