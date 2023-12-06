@@ -30,4 +30,4 @@ function CourseRoutes(app) {
 		res.send(courses);
 	});
 }
-export default CourseRoutes;
+export default CourseRoutes
